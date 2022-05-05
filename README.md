@@ -1,0 +1,2 @@
+# WhatsCet
+exercici modular
